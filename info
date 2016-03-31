@@ -1,0 +1,16 @@
+//Welcome to my final project!
+
+I decided to create an e-commerce website inspired by Garretts Puresunshine site. 
+The site I created, www.stackteck.ca is an e-commerce site where I am planning to sell value electronics. The business 
+model is to buy the items cheaply from overseas and sell them on the site for a markup. In this site I specifically specialize 
+in electronics, although I am thinking of expanding in the future. 
+
+The site is fully functional with WooCommerce and features a classic e-commerce theme. I didnt realize how difficult it was
+to actually create a website like that and get everything to actually work! I used 1&1 hosting for my domain name and wordpress
+for my website creation. The site uses a backend server to store all my product information, prices, usernames, passwords, etc.
+I uploaded most of my images and data from an FTP server, using FileZilla as my gateway ( I will go more into that duirng the 
+video) I am super excited about this and hope to keep building on it in the future!
+
+Hope you enjoy
+
+James 
